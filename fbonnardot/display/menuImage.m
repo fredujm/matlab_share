@@ -1,5 +1,5 @@
 function menuImage (fig,callback,param)
-% Create a menu for figure of type image. A TESTER
+% Create a menu for figure of type image.
 %
 % menuImage ([fig])
 %
